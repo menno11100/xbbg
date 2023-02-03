@@ -75,11 +75,11 @@ Equity:
     exch: EquityChina
   - exch_codes: [IN, IS, IB]
     exch: EquityIndia
-  - exch_codes: [LI, LN, FP]
+  - exch_codes: [LI, LN, FP, IM]
     exch: EquityLondon
   - exch_codes: [NA]
     exch: EquityAmsterdam
-  - exch_codes: [ID, GR]
+  - exch_codes: [ID, GR, GY]
     exch: EquityDublin
   - exch_codes: [SQ, SM]
     exch: EquitySpain
